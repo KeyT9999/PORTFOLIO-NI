@@ -25,7 +25,7 @@ export default function Contact() {
               </h1>
             </div>
             <div className="text-right">
-              <p className="text-2xl italic mb-1" style={{ fontFamily: 'Noto Serif, serif' }}>Đinh Thị Thảo Linh</p>
+              <p className="text-2xl italic mb-1" style={{ fontFamily: 'Noto Serif, serif' }}>Đinh Thị Thảo Linh (Ni)</p>
               <p className="text-xs tracking-widest uppercase" style={{ fontFamily: 'Inter, sans-serif', color: '#777777' }}>STYLING ARCHIVE 24</p>
             </div>
           </div>
