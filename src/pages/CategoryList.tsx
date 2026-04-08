@@ -155,10 +155,10 @@ const mockProjects = {
     projects: [
       {
         id: 1,
-        title: 'BTS: MILAN FASHION WEEK',
+        title: 'LEMINO',
         category: 'Stylist Assistant',
-        image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuB8111PNC9Q2Fe8SR4Z9p92AXE8kd1KQ13e5lvKN0cCk8DdtoQoWqdGfNqPxwuaO5fy-_WWCa210ABckh_Q161YshENbDanOnkYYUAyXYfxGzO_zGuv4DxE-BAL9BaG9B_iJyywihYdZVRBwJR_RXTyGkd_DmXNHoiqutqHs2WBIy-UKSJeKX1hqM65v-FM27CjslLcfz9F1O3V_vVqpnvJhviFvwNYRHcwBlogyIgPgrYFN8Q2z18D1xAMxNwmNc5ocu9xIFULg9jU',
-        slug: '/project'
+        image: 'https://scontent.fdad1-1.fna.fbcdn.net/v/t39.30808-6/650149656_10225486757514138_8387490141278315413_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeELA5C4TCzr06JU35aprn39wMwYGTXZYtTAzBgZNdli1EEVhLQnD_gJtTRgN1L_l7YK146fhVtmJy8dWt080DMl&_nc_ohc=QJX0LHo-zF8Q7kNvwELhvJj&_nc_oc=AdrPvgJ192bkYxP7kRPlapKGW12gKrk76fAv6SpaZitBrirX3go0_zWxwIzRz0hb3M4&_nc_zt=23&_nc_ht=scontent.fdad1-1.fna&_nc_gid=EuS3QdJSP3R1wZQOtsX27g&_nc_ss=7a3a8&oh=00_Af0ew77DMtUC0de2tRy3aUR0xnRbmLumVKhytI6bZCsgSQ&oe=69DBCC5A',
+        slug: '/project/lemino'
       }
     ]
   },
@@ -168,10 +168,24 @@ const mockProjects = {
     projects: [
       {
         id: 1,
-        title: 'AUTUMN/WINTER COLLECTION',
+        title: 'CERAMIC-GỐM',
         category: 'Fashion Design',
-        image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuA_NBpDWMz4EhZ-A0PXuglpt7inXkt1AfE_qKZBcO2WBpwixRYZ0ImJ9ImcS0BgS3279mlSknxLiY03uyQ-HBB77JUml6G8V8zaxXEFMh2do2jhEFy3xd8JKM4PVPCMISQvGWRSwLtvbGRogdwdPovYGYm9zbU1Lj7fVuyiXdMKg32o9-b0JXGFpXaAnbP07tU3KEFkJbAUfC5IzgyzNq-ZIqaVoMriIy5rH_U2PiInNqnVSB0k-Cha7Q3Hgoo2-UKP36xNpFV__35i',
-        slug: '/project'
+        image: 'https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/489306355_1862375191227696_2512012036460917066_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeGBdflhhcvwikaEo-of834nwRe6G2V1P17BF7obZXU_Xs7UXB_MX9-ZtLx1oBeQ0NTVn3GbqCCPc4JFG4HT3RGD&_nc_ohc=DIb8bP_wIDEQ7kNvwGkoJmK&_nc_oc=AdqGtsVYSa3_7K_1Y2EreUhpP9fEpnvcvu5zNtpqGba90zfSI-az6Ut_EvzAp8QlDiI&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=t50qX67OTLtyDU8Uw3kAbA&_nc_ss=7a3a8&oh=00_Af1LR7aR4A87dawJ_atZ65io8BCMuOfoNJdTIZmao_v7jA&oe=69DBD6DB',
+        slug: '/project/ceramic-gom'
+      },
+      {
+        id: 2,
+        title: 'NON NƯỚC',
+        category: 'Fashion Design',
+        image: 'https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/487171359_1854760115322537_2422896182927516071_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeFr_AjhbiAZWF7-tufdx2Uo9NoD7q0Qmiv02gPurRCaKw55sMVld9hDlNM0qtSbmRy7OdweDra9MmHSGf_o0tke&_nc_ohc=bcI7d4tQ3fwQ7kNvwGijdVI&_nc_oc=AdoB2MDqTqxILUm3CvpeVUMSYeEl9TRe41_cE0O2O6Pr2wb92nr_j089esHzhw7CjkI&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=VoGg7ENx87PzV3sPc_4QHA&_nc_ss=7a3a8&oh=00_Af1oEOTc74VFK6dPhEkUNE8bUdiPZMowvmA81NQuVvpwfA&oe=69DBE72A',
+        slug: '/project/non-nuoc'
+      },
+      {
+        id: 3,
+        title: 'UNIFORM PROJECT X VIETGANGZ GLAMPING CLUB',
+        category: 'Fashion Design',
+        image: 'https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/495239564_1885182018947013_9183256286610691495_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeGcFZ2FpkhDta0d0z16Scdzw4LQZ1YihCDDgtBnViKEIL8RYoN3AC1vqewTA_lV-9G2Ns0zyB7HryJYE9Bf498f&_nc_ohc=1QHq_wrSqWwQ7kNvwHDmGTf&_nc_oc=Adr43tGCkL-DBN8lLa7Q7xmHWi_Nb8TEYhdX5gz50JoDWgHYklj2czlj0n6Ra9iCPEY&_nc_zt=23&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=YBcCYPEoW2N7rcDZri9f5Q&_nc_ss=7a3a8&oh=00_Af3MlVn2dxRf8Sb_3J8yNvEoKCylLRwDiM-qwxRrKzvufg&oe=69DBD726',
+        slug: '/project/uniform-vietgangz'
       }
     ]
   }
@@ -200,7 +214,7 @@ export default function CategoryList() {
   return (
     <div style={{ backgroundColor: '#FCFBF6', color: '#111', fontFamily: 'Inter, sans-serif', minHeight: '100vh' }}>
       <Navbar />
-      
+
       <main className="pt-32 pb-24 px-6 md:px-12 max-w-[1600px] mx-auto">
         <div className="mb-16">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-4 uppercase" style={{ fontFamily: 'Noto Serif, serif' }}>
@@ -215,23 +229,23 @@ export default function CategoryList() {
           {data.projects.map((project) => (
             <div key={project.id} className="group flex flex-col">
               <Link to={project.slug} className="overflow-hidden mb-6 aspect-[4/3] block">
-                <img 
-                  src={project.image} 
-                  alt={project.title} 
+                <img
+                  src={project.image}
+                  alt={project.title}
                   className="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
                 />
               </Link>
-              
+
               <h3 className="text-xl font-bold mb-2 text-[#000]" style={{ fontFamily: 'Noto Serif, serif' }}>
                 {project.title}
               </h3>
-              
+
               <p className="text-[#666] text-xs italic mb-4" style={{ fontFamily: 'Noto Serif, serif' }}>
                 {project.category}
               </p>
-              
-              <Link 
-                to={project.slug} 
+
+              <Link
+                to={project.slug}
                 className="text-[10px] font-bold tracking-[0.2em] uppercase flex items-center gap-2 text-[#444] hover:text-[#000] transition-colors mt-auto"
               >
                 VIEW DETAILS <span className="material-symbols-outlined text-[14px]">arrow_outward</span>
