@@ -56,13 +56,31 @@ const projectDatabase = {
     styling: 'NI STUDIO',
     brand: 'VinFast Vietnam',
     description: 'A powerful representation of masculine elegance combined with the premium appeal of VinFast. Featuring Thuận Nguyễn, this campaign sets a confident, refined tone. The styling balances crisp tailoring with a sense of approachable luxury, echoing the spirit of the modern vehicle.',
-    nextProjectTitle: 'RETURN HOME',
-    nextProjectSlug: '/',
+    nextProjectTitle: 'VIETCOMBANK X CON CÒ ĐÂY',
+    nextProjectSlug: '/project/vietcombank-x-con-co-day',
     images: [
       "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/482028442_1196384488512812_1806176564379977814_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeHdZr-GvBnlzLSZamI6ZGHnmqyD48JD5FuarIPjwkPkW6t8VjP1MXPVsdy_wMNdqn9UH6LAHQvWvD8chuv94YpG&_nc_ohc=Uq6mXILwTy0Q7kNvwEWBW68&_nc_oc=Ados5j6EAbZsPTX2qvpV9IcPrOSHxPWXStCR48Yq0TZxVCubrecHLOPOPwd8Wix8nEc&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=r190YAmeq9m3ZqhJLZJ59A&_nc_ss=7a3a8&oh=00_Af0EPTU8_Jb6d9yLVosE5pL2iu6fFnDeWuU-NkRlF4IRsA&oe=69DB7691",
       "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/482021231_1196384681846126_2945758807469789048_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeFoRqgoZ-ZMe9ZliUIxDEnUeddCXrUr5DF510JetSvkMZAU_lQhrdg3sQRSfUi5OUXolfP08zrmnZ9uQAYnDOGM&_nc_ohc=kDpKUwJyK40Q7kNvwHekUUE&_nc_oc=AdpcJT79IIDRdFu3K7Jmz5wx73wo5z4X7jb0Pup-xsa4IJthyANUy6UY218m9B3bnz0&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=psZB3e3YcGusAMI7NMa6hw&_nc_ss=7a3a8&oh=00_Af0cbEPxkE11p8jPVQhBOc1Ac9zdM1qNLKOlZmetMkCGzg&oe=69DB78F0",
       "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/482032393_1196384395179488_542806003683485570_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeGwSFvyEhQTojd9-_9d3eXGpmtoIEM1HvSma2ggQzUe9Mbk15GKGrvzvuA9Un77F0bUA5HO8X2_EWoI7Cii0Na2&_nc_ohc=nXEkd3_-Y24Q7kNvwGBWOLZ&_nc_oc=AdrjNuOE4oTDmKbhRM9JOUtslruIQIG44-aHGePj0lpcGX1mgUb20vWm4pPvt2ywOFU&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=xc2Aiq8ThXSS5kj9ynayEw&_nc_ss=7a3a8&oh=00_Af2jhT4HL8ox8ez09ehh4f_mxQ3bcfkHefa68Fb8WdZkZA&oe=69DB7DDB",
       "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/482015359_1196384255179502_2909525787357989483_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeEtfkQMYd29V2NRncwxavVJR9BZ62_dEqZH0Fnrb90SpqNaixC1QKT3VPo8D04M64qyo2sB305RWzRnHaIgEQOF&_nc_ohc=uBmk9pvGMJ8Q7kNvwGLYHHI&_nc_oc=AdonA3zTee64vIxHQkJxBRKlGBLvhvFBZpvqT0H6UPyZ8fnImxg-Su-f70TL9plheNk&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=SHq-K0fm3Nyf8K0uzgZ-LQ&_nc_ss=7a3a8&oh=00_Af0-29KT42WW-8ZSH3AHnSccynMaxcnTG4GQCg9aMuIe_w&oe=69DB63C0"
+    ]
+    ]
+  },
+  'vietcombank-x-con-co-day': {
+    category: 'PRODUCTION STYLIST',
+    title: 'VIETCOMBANK X \nCON CÒ ĐÂY',
+    client: 'VIETCOMBANK',
+    role: 'PRODUCTION STYLIST',
+    year: '2024',
+    starring: 'Các Diễn Viên',
+    styling: 'NI STUDIO',
+    brand: 'Vietcombank',
+    description: 'Một chiến dịch đặc biệt kết hợp cùng Vietcombank và đạo diễn, mang đến hình ảnh chuyên nghiệp nhưng vẫn giữ được sự gần gũi, truyền tải trọn vẹn tinh thần của nhãn hàng thông qua từng bộ trang phục.',
+    nextProjectTitle: 'RETURN HOME',
+    nextProjectSlug: '/',
+    images: [
+      '<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmaincourseconcept%2Fvideos%2F876293058189768%2F&show_text=false&width=100%25&t=0" width="100%" height="400" style="border:none;overflow:hidden;max-width:100%" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>',
+      'https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/603894841_1297030942464003_3292556104082335180_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeHPulppIxtYDhKiMXX3-yZexr60C3xAA6nGvrQLfEADqQhh6UHznyqMvzlzEdd0koWoKV3NRCt6hFZSZAhXZlCq&_nc_ohc=Vp_9xXPZM9oQ7kNvwFo__Vm&_nc_oc=Adr8aYlh9Hf3A7lc2FUaYA1hSCDLEmAXLueGmYMSTMY-W9iEHn2SP3HVthCqWLI5-fc&_nc_zt=23&_nc_ht=scontent.fdad1-2.fna&_nc_gid=EdlYGi0VzQfFGeSGp8lSlw&_nc_ss=7a3a8&oh=00_Af3a4TRfWR_p3bcKN9sF58S76aYj2SBPk2UodBfasipKeA&oe=69DBD7CB'
     ]
   }
 }
@@ -126,15 +144,22 @@ export default function ProjectDetail() {
         {/* Masonry Gallery */}
         <section id="gallery" className="px-4 md:px-12 mb-32 md:mb-40">
           <div className="columns-1 md:columns-2 lg:columns-3 gap-6 space-y-6">
-            {data.images.map((src, index) => (
-              <div key={index} className="break-inside-avoid relative overflow-hidden" style={{ backgroundColor: '#f3f3f3', cursor: 'zoom-in' }}>
-                <img
-                  src={src}
-                  className="w-full h-auto object-cover transition-all duration-700 ease-out-expo hover:scale-[1.02]"
-                  alt={`${data.title.replace('\n', ' ')} - Image ${index + 1}`}
-                />
-              </div>
-            ))}
+            {data.images.map((src, index) => {
+              if (src.startsWith('<iframe')) {
+                return (
+                  <div key={index} className="break-inside-avoid relative overflow-hidden flex justify-center w-full mb-6" dangerouslySetInnerHTML={{ __html: src }} />
+                )
+              }
+              return (
+                <div key={index} className="break-inside-avoid relative overflow-hidden" style={{ backgroundColor: '#f3f3f3', cursor: 'zoom-in' }}>
+                  <img
+                    src={src}
+                    className="w-full h-auto object-cover transition-all duration-700 ease-out-expo hover:scale-[1.02]"
+                    alt={`${data.title.replace('\n', ' ')} - Image ${index + 1}`}
+                  />
+                </div>
+              )
+            })}
           </div>
         </section>
 
